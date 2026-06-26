@@ -36,13 +36,13 @@ Hi there 👋
 ### 🔗 Connect with Me
 
 <p>
-  <a href="mailto:get.viveksahu@gmail.com">
+  <a href="mailto:mail@viveksahu.com">
     <img src="https://img.shields.io/badge/Email-white?style=flat&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/viveek-sh/">
+  <a href="https://www.linkedin.com/in/vivek-src/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://x.com/viveek_sh/">
+  <a href="https://x.com/vivek_src">
     <img src="https://img.shields.io/badge/Twitter-252A34?style=flat&logo=x&logoColor=white" />
   </a>
   <a href="https://viveksahu.com">
@@ -52,3 +52,5 @@ Hi there 👋
 </p>
 
 
+<!-- Things to add to skills:
+- Astro, Kafka -->
